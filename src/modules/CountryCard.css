@@ -1,0 +1,46 @@
+.card, 
+.countryDescription{
+    flex-direction: column;
+    text-align: left;
+    background-color: white;
+}
+
+.darkcard{
+    background-color: rgb(46, 55, 66);
+    color: white;
+}
+
+.card{
+    margin: 10%;
+    width: 80%;
+    border-radius: 5px;
+}
+
+.countryDescription{
+    margin-bottom: 5%;
+    width: 100%;
+}
+
+#population, #region, #capital, #countryName{
+    width: 90%;
+}
+
+#countryName{
+    padding: 5% 0;
+    font-size: 15px;
+}
+
+#population, #region, #capital{
+    padding: 1% 0;
+    font-weight: 300;
+}
+
+span{
+    font-weight: 600;
+}
+
+#countryImg{
+    width: 100%;
+    height: 30vh;
+    border-radius: 5px;
+}

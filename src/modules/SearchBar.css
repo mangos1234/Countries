@@ -1,0 +1,12 @@
+input{
+    margin: 5%;
+    width: 90%;
+    padding: 2%;
+    border: none;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 5px;
+}
+
+.searchbar{
+    margin-top: 60px;
+}

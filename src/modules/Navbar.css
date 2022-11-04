@@ -1,0 +1,31 @@
+div{
+    display: flex;
+    align-items: center;
+}
+
+.NavBarContainer{
+    position: fixed;
+    background-color: white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    height: 60px;
+}
+
+.title, .mode{
+    width: 50%;
+    padding: 5%;
+}
+
+h1{
+    text-align: start;
+    font-weight: 800;
+}
+
+.modetext, box-icon{
+    text-align: end;
+    font-weight: 600;
+}
+
+.dark{
+    background-color: rgb(46, 55, 66);
+    color: white;
+}
